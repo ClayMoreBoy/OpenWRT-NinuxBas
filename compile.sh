@@ -27,5 +27,6 @@ cd openwrt
 
 cat ../NinuxBas/ninuxbas-config >> .config
 
-make defconfig && make  V=99 -j 1 &&\
+make defconfig && \
+make  V=99 -j 1 && \
 mv bin/ar71xx/*.bin ../Firmware/
