@@ -12,4 +12,4 @@ chmod +x compile.sh
 
 ./compile.sh 
 
-Quando avra' terminato troverai i firmware benerati in Firmware
+Quando avra' terminato troverai i firmware generati in Firmware
