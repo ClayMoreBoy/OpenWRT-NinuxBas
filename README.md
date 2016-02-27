@@ -7,6 +7,7 @@ Se hai piu' CPU modifica il file compile.sh impostando il paramentro -j
 
 
 eseguire i seguenti comandi:
+
 chmod +x compile.sh
 
 ./compile.sh 
